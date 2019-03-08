@@ -1,0 +1,39 @@
+Name= "Natasha"
+print("Her name is " + Name + ",")
+num1= 10
+num2= 7
+sum= num1 + num2
+print(sum)
+num3= 20
+
+Students= 3
+if Students >=5:
+ print("class is on")
+else:
+ print ("class is off")
+
+  import xlrd (for importing excel)
+
+name = "John"
+
+age = 23
+
+print("%s is %d years old." % (name, age))
+
+astring = "Hello world!"
+
+print(astring.count("l"))
+
+astring = "Hello world!"
+
+print(astring.upper())
+
+print(astring.lower())
+
+person = input('Enter your name: ')
+print('Hello', person)
+
+applicant = input("Enter the applicant's name: ")
+interviewer = input("Enter the interviewer's name: ")
+time = input("Enter the appointment time: ")
+print(interviewer, "will interview", applicant, "at", time)
